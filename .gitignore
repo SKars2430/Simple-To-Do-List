@@ -1,0 +1,8 @@
+# Build-Ordner
+bin/
+obj/
+
+# Visual Studio Dateien
+*.user
+*.suo
+*.vs/
