@@ -1,0 +1,16 @@
+C:\C#-learning\1st App\To Do List Application\To Do List Application\bin\Debug\net8.0-windows\To Do List Application.exe
+C:\C#-learning\1st App\To Do List Application\To Do List Application\bin\Debug\net8.0-windows\To Do List Application.deps.json
+C:\C#-learning\1st App\To Do List Application\To Do List Application\bin\Debug\net8.0-windows\To Do List Application.runtimeconfig.json
+C:\C#-learning\1st App\To Do List Application\To Do List Application\bin\Debug\net8.0-windows\To Do List Application.dll
+C:\C#-learning\1st App\To Do List Application\To Do List Application\bin\Debug\net8.0-windows\To Do List Application.pdb
+C:\C#-learning\1st App\To Do List Application\To Do List Application\obj\Debug\net8.0-windows\To_Do_List_Application.ToDo.resources
+C:\C#-learning\1st App\To Do List Application\To Do List Application\obj\Debug\net8.0-windows\To Do List Application.csproj.GenerateResource.cache
+C:\C#-learning\1st App\To Do List Application\To Do List Application\obj\Debug\net8.0-windows\To Do List Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-learning\1st App\To Do List Application\To Do List Application\obj\Debug\net8.0-windows\To Do List Application.AssemblyInfoInputs.cache
+C:\C#-learning\1st App\To Do List Application\To Do List Application\obj\Debug\net8.0-windows\To Do List Application.AssemblyInfo.cs
+C:\C#-learning\1st App\To Do List Application\To Do List Application\obj\Debug\net8.0-windows\To Do List Application.csproj.CoreCompileInputs.cache
+C:\C#-learning\1st App\To Do List Application\To Do List Application\obj\Debug\net8.0-windows\To Do List Application.dll
+C:\C#-learning\1st App\To Do List Application\To Do List Application\obj\Debug\net8.0-windows\refint\To Do List Application.dll
+C:\C#-learning\1st App\To Do List Application\To Do List Application\obj\Debug\net8.0-windows\To Do List Application.pdb
+C:\C#-learning\1st App\To Do List Application\To Do List Application\obj\Debug\net8.0-windows\To Do List Application.genruntimeconfig.cache
+C:\C#-learning\1st App\To Do List Application\To Do List Application\obj\Debug\net8.0-windows\ref\To Do List Application.dll
